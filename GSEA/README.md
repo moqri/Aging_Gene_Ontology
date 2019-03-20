@@ -1,0 +1,2 @@
+The Jupyter notebook contains the python script used to perform GSEA in order to produce the figures in our final report. 
+Please note that the 'KEGG analysis' requires a GMT file, [c2.cp.kegg.v6.2.symbols.gmt](http://software.broadinstitute.org/gsea/msigdb/collections.jsp, "c2.cp.kegg.v6.2.symbols.gmt"), which can be downloaded from the MSigDB (maintained by the Broad Institute) after a free registration process. 
